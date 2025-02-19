@@ -10,7 +10,6 @@
 </head>
 
 <body>
-    <h1>Products </h1>
     <div class="container w-full mx-auto">
         <br>
         @yield('content')
